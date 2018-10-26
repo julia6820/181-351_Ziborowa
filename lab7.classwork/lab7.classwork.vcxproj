@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{93E86680-0EF5-4728-8367-276A1F589E97}</ProjectGuid>
+    <ProjectGuid>{E6924027-B2D6-4747-81A0-12C844ADF74F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>lab61classwork</RootNamespace>
+    <RootNamespace>lab7classwork</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,7 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lab6 classwork.cpp" />
+    <ClCompile Include="lab7.classwork.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
