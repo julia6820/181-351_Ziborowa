@@ -1,0 +1,3 @@
+﻿  lab 12 curl.cpp
+c:\users\julia\source\repos\labs\181-351_ziborowa\181-351_ziborowa\lab 12 curl\lab 12 curl.cpp(43): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  lab 12 curl.vcxproj -> C:\Users\Julia\source\repos\labs\181-351_Ziborowa\181-351_Ziborowa\x64\Debug\lab 12 curl.exe
