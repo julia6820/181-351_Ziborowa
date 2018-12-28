@@ -1,0 +1,7 @@
+﻿  exam.cpp
+c:\users\julia\source\repos\labs\181-351_ziborowa\181-351_ziborowa\lab 15\exam.cpp(18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\julia\source\repos\labs\181-351_ziborowa\181-351_ziborowa\lab 15\exam.cpp(29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\julia\source\repos\labs\181-351_ziborowa\181-351_ziborowa\lab 15\exam.cpp(56): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab 15.cpp
+  Создание кода...
+  lab 15.vcxproj -> C:\Users\Julia\source\repos\labs\181-351_Ziborowa\181-351_Ziborowa\x64\Debug\lab 15.exe
